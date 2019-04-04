@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/splash/splash",
+    "pages/index/index",
+    "pages/my/my",
+    "pages/bless/bless",
+    "pages/home/gridview/gridview",
+    "pages/home/home",
+    "pages/map/map",
+    "pages/my/aboutus/aboutus",
+    "pages/bless/blessDetail/blessDetail",
+    "pages/my/aboutProject/aboutProject",
+    "pages/my/flow/flow"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFAEC0",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "list": [    
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/tab/1-1.png",
+        "selectedIconPath": "image/tab/1-2.png",
+        "text": "邀请函"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "image/tab/2-1.png",
+        "selectedIconPath": "image/tab/2-2.png",
+        "text": "相册"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "iconPath": "image/tab/3-1.png",
+        "selectedIconPath": "image/tab/3-2.png",
+        "text": "导航"
+      },
+      {
+        "pagePath": "pages/bless/bless",
+        "iconPath": "image/tab/4-1.png",
+        "selectedIconPath": "image/tab/4-2.png",
+        "text": "祝福"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "image/tab/5-1.png",
+        "selectedIconPath": "image/tab/5-2.png",
+        "text": "留言"
+      }
+    ],
+    "position": "bottom",
+    "selectedColor": "#FFAEC0",
+    "backgroundColor": "#fff",
+    "color": "#5F5F5F"
+  },
+  "enablePullDownRefresh": false
+}
