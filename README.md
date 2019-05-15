@@ -20,12 +20,12 @@
 
 #### 主页面展示
 <div >
-    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG296.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG297.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG298.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG299.png" width="150" height="250" alt=""/>
-    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG300.png" width="150" height="250"  alt=""/>
-   <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG301.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/blob/first/photo/WechatIMG296.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/blob/first/photo/WechatIMG297.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/blob/first/photo/WechatIMG298.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/blob/first/photo/WechatIMG299.png" width="150" height="250" alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/blob/first/photo/WechatIMG300.png" width="150" height="250"  alt=""/>
+   <img src="https://github.com/nieyuwen/marry_nk/blob/first/photo/WechatIMG301.png" width="150" height="250"  alt=""/>
 </div>
 
  
