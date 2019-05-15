@@ -20,23 +20,24 @@
 
 #### 主页面展示
 <div >
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-142831.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-142943.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-142956.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-143010.png" width="150" height="250" alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-143022.png" width="150" height="250"  alt=""/>
-   <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-143036.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG296.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG297.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG298.png" width="150" height="250"  alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG299.png" width="150" height="250" alt=""/>
+    <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG300.png" width="150" height="250"  alt=""/>
+   <img src="https://github.com/nieyuwen/marry_nk/photo/WechatIMG301.png" width="150" height="250"  alt=""/>
 </div>
 
  
 #### 项目说明
  - 服务器：阿里云服务
- - 域名：pengmaster.com
- - 数据库：在服务器上装的mysql
+ - 域名：52kangyuan.com
+ - 数据库什么的都是用的宝塔一键配置，很简单的。
  - 后台地址：https://github.com/pengMaster/marry_server
- - 后台统计地址：https://pengmaster.com/party/marry
+
  - 项目中引用的网络资源若有侵权，请通知及时删除。该小程序为个人开发，一切解释权归作者所有，图片禁止传播。
 - 功能简介：
+    - 欢迎界面展示
     - 新郎新娘图片展示
     - 婚礼现场导航
     - 点赞祝福，分享好友
